@@ -2,7 +2,6 @@
 
 import pandas as pd
 import sys
-
 try:
     # Load the CSV file
     df = pd.read_csv('sales_data.csv')
