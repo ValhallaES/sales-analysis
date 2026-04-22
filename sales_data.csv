@@ -1,0 +1,11 @@
+﻿OrderID,Data,Customer,Product,Category,Quantity,Price,Region
+1001,1/5/2024,John Doe,Laptop,Electronics,1,800,North
+1002,1/6/2024,Jane Smith,Mouse,Electronics,2,25,South
+1003,1/7/2024,Alice Brown,Keyboard,Electronics,1,45,East
+1004,1/8/2024,Bob White,Desk,Furniture,1,150,West
+1005,1/9/2024,Chris Green,Chair,Furniture,2,85,North
+1006,1/10/2024,Emma Stone,Monitor,Electronics,1,200,South
+1007,1/11/2024,Liam Scott,Table,Furniture,1,120,East
+1008,1/12/2024,Olivia King,Headphones,Electronics,3,60,West
+1009,1/13/2024,Noah Lee,Laptop,Electronics,1,900,North
+1010,1/14/2024,Sophia Hall,Chair,Furniture,1,95,South
