@@ -1,5 +1,4 @@
 # analyze sales data from csv file and calculate total sales, category-wise sales, top product and region-wise distribution
-
 import pandas as pd
 import sys
 try:
